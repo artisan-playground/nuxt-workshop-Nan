@@ -31,7 +31,7 @@
 
 - Not yet
 
-### 26 Nov : Start to Deploy \
+### 26 Nov : Start to Deploy
 
 - Not yet
 
