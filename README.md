@@ -1,4 +1,4 @@
-# workshop
+# Nuxt Workshop
 
 ---
 
